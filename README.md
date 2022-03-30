@@ -1,2 +1,5 @@
-# O2SR
-Pytorch implementation of the paper 'Multi-granularity semantic clues extraction for Video Question Answering'
+# O2SR : Multi-granularity semantic clues extraction for Video Question Answering
+Pytorch implementation of the paper 'Multi-granularity semantic clues extraction for Video Question Answering' in ICME2022
+
+# TODOLIST
+We will publish the code as soon as possible. 
