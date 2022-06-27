@@ -1,0 +1,19 @@
+gpu_id: 0
+multi_gpus : False
+num_workers: 4
+seed: 666
+exp_name: 'TGIF_QA_Transition'
+
+model:
+  num_head: 8
+  word_dim: 300
+  module_dim: 512
+  vision_dim: 2048
+
+train:
+  lr: 0.0001
+  glove: True
+
+dataset:
+  name: 'tgif-qa'
+  question_type: 'transition'
