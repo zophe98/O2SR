@@ -2,4 +2,5 @@
 Pytorch implementation of the paper 'Multi-granularity semantic clues extraction for Video Question Answering' in ICME2022
 
 # TODOLIST
-We will publish the code as soon as possible. 
+- [ ] write a README
+- [ ] update the feature extraction file
